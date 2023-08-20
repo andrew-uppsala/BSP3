@@ -1,0 +1,214 @@
+ 
+
+
+
+ GENERATION  >>>>>>>>>> 0 
+
+
+
+
+risk penalty of all solutions is : 
+ 0.006934220779609901
+fitness of all solutions is : 
+ 55.30196971964272
+risk penalty of all solutions is : 
+ 0.009411760132026619
+fitness of all solutions is : 
+ 58.78360422664114
+risk penalty of all solutions is : 
+ 0.009687926078977494
+fitness of all solutions is : 
+ 57.61719237994053
+risk penalty of all solutions is : 
+ 0.008763945568132368
+fitness of all solutions is : 
+ 56.60573832236798
+risk penalty of all solutions is : 
+ 0.008209531141624905
+fitness of all solutions is : 
+ 61.70733262891859
+risk penalty of all solutions is : 
+ 0.008473139119349146
+fitness of all solutions is : 
+ 61.96816187953911
+risk penalty of all solutions is : 
+ 0.009262455660695279
+fitness of all solutions is : 
+ 53.04667189994261
+risk penalty of all solutions is : 
+ 0.009140352835569488
+fitness of all solutions is : 
+ 56.493867695358716
+risk penalty of all solutions is : 
+ 0.009238047935746578
+fitness of all solutions is : 
+ 52.33733157499777
+risk penalty of all solutions is : 
+ 0.006037303344661438
+fitness of all solutions is : 
+ 61.13235030646463
+risk penalty of all solutions is : 
+ 0.008542379676651082
+fitness of all solutions is : 
+ 54.71148074339464
+risk penalty of all solutions is : 
+ 0.009241369802585418
+fitness of all solutions is : 
+ 58.211035401505576
+risk penalty of all solutions is : 
+ 0.008070027942592772
+fitness of all solutions is : 
+ 57.63930629923212
+risk penalty of all solutions is : 
+ 0.008442091715983924
+fitness of all solutions is : 
+ 56.959308023463386
+risk penalty of all solutions is : 
+ 0.006804089710698268
+fitness of all solutions is : 
+ 58.772841989428684
+risk penalty of all solutions is : 
+ 0.006380316907860556
+fitness of all solutions is : 
+ 62.784688635580224
+risk penalty of all solutions is : 
+ 0.007539724324232946
+fitness of all solutions is : 
+ 58.61059763099531
+risk penalty of all solutions is : 
+ 0.007579433883973886
+fitness of all solutions is : 
+ 59.925251553243946
+risk penalty of all solutions is : 
+ 0.009154996154701067
+fitness of all solutions is : 
+ 52.85575605879939
+risk penalty of all solutions is : 
+ 0.012692305584117743
+fitness of all solutions is : 
+ 55.65099933906122
+risk penalty of all solutions is : 
+ 0.006934220779609901
+fitness of all solutions is : 
+ 55.30196971964272
+risk penalty of all solutions is : 
+ 0.009411760132026619
+fitness of all solutions is : 
+ 58.78360422664114
+risk penalty of all solutions is : 
+ 0.007945325987042057
+fitness of all solutions is : 
+ 64.69750232030337
+risk penalty of all solutions is : 
+ 0.008763945568132368
+fitness of all solutions is : 
+ 56.60573832236798
+risk penalty of all solutions is : 
+ 0.008317814498599597
+fitness of all solutions is : 
+ 53.66265976554635
+risk penalty of all solutions is : 
+ 0.008473139119349146
+fitness of all solutions is : 
+ 61.96816187953911
+risk penalty of all solutions is : 
+ 0.009262455660695279
+fitness of all solutions is : 
+ 53.04667189994261
+risk penalty of all solutions is : 
+ 0.009140352835569488
+fitness of all solutions is : 
+ 56.493867695358716
+risk penalty of all solutions is : 
+ 0.006566604582721602
+fitness of all solutions is : 
+ 56.482790281052075
+risk penalty of all solutions is : 
+ 0.006037303344661438
+fitness of all solutions is : 
+ 61.13235030646463
+risk penalty of all solutions is : 
+ 0.008542379676651082
+fitness of all solutions is : 
+ 54.71148074339464
+risk penalty of all solutions is : 
+ 0.009241369802585418
+fitness of all solutions is : 
+ 58.211035401505576
+risk penalty of all solutions is : 
+ 0.011816694948745564
+fitness of all solutions is : 
+ 56.94307901193211
+risk penalty of all solutions is : 
+ 0.008442091715983924
+fitness of all solutions is : 
+ 56.959308023463386
+risk penalty of all solutions is : 
+ 0.007815783188581721
+fitness of all solutions is : 
+ 57.53370501603539
+risk penalty of all solutions is : 
+ 0.006380316907860556
+fitness of all solutions is : 
+ 62.784688635580224
+risk penalty of all solutions is : 
+ 0.007539724324232946
+fitness of all solutions is : 
+ 58.61059763099531
+risk penalty of all solutions is : 
+ 0.007579433883973886
+fitness of all solutions is : 
+ 59.925251553243946
+risk penalty of all solutions is : 
+ 0.009304351904960515
+fitness of all solutions is : 
+ 51.0929302296793
+risk penalty of all solutions is : 
+ 0.012692305584117743
+fitness of all solutions is : 
+ 55.65099933906122
+Im HERE>>>>>>>>>>>>>>>
+max of something
+0          0.0
+1     0.000022
+2     0.000019
+3     0.000015
+4    -0.000016
+5    -0.000006
+6    -0.000027
+7     0.000063
+8    -0.000049
+9     0.000007
+10    0.000015
+11    0.000019
+12   -0.000001
+13    -0.00008
+14    0.000009
+15   -0.000063
+16    0.000011
+17    -0.00001
+18   -0.000096
+19   -0.000084
+20         0.0
+21    0.000022
+22    0.000074
+23    0.000015
+24   -0.000039
+25   -0.000006
+26   -0.000027
+27    0.000063
+28   -0.000034
+29    0.000007
+30    0.000015
+31    0.000019
+32   -0.000001
+33    -0.00008
+34    0.000013
+35   -0.000063
+36    0.000011
+37    -0.00001
+38   -0.000098
+39   -0.000084
+dtype: object
+
+
