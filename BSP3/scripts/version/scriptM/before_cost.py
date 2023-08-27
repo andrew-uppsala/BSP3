@@ -6,7 +6,11 @@ import random
 # from ga_p_myCross_working_backup_before_cost import new_objective_function_2_indiv,plot_vars_auto,risk_function
 from full_code import new_objective_function_2_indiv,plot_vars_auto,risk_function
 
-num_gen= 1
+np.set_printoptions(threshold=np.inf)
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_columns', None)
+
+num_gen= 3
 num_gen_str=str(num_gen)
 
 class Individual_glob:
