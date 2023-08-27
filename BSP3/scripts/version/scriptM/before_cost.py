@@ -7,8 +7,7 @@ import random
 from full_code import new_objective_function_2_indiv,plot_vars_auto,risk_function
 
 np.set_printoptions(threshold=np.inf)
-pd.set_option('display.max_rows', None)
-pd.set_option('display.max_columns', None)
+
 
 num_gen= 3
 num_gen_str=str(num_gen)
@@ -149,13 +148,3 @@ from full_code import rule_R_p_scalar_values,quantity_l_s_scalar_values,card_l_s
 x=[i for i in range(len(quantity_l_s_scalar_values))]
 
 plot_vars_auto(x,rule_R_p_scalar_values,quantity_l_s_scalar_values,card_l_s_scalar_values,l_s_total_values_scalar_values,us_reg_scalar_values,local_min_func_df,glob_min_func_df,rule_r_p_actual_values_df,rule_r_p_df,num_gen_str,name_of_file='NSGA_II' )
-
-
-
-
-
-
-
-
-
-

@@ -21,6 +21,10 @@ from copy import deepcopy
 from deap import algorithms, base, creator, tools
 from scipy.stats import entropy
 
+np.set_printoptions(threshold=np.inf)
+
+
+
 # from cross_risk import *
 #sortino ratio
 #differnt objective functions
@@ -91,7 +95,7 @@ R=7.998607E-05
 
 
 
-
+    
 
 # R_asset=0
 # #prin
